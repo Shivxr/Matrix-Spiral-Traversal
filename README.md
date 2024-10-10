@@ -4,7 +4,9 @@ A simple approach using if's for spiral traversal of a matrix
 # Working
 
 1.Get the Count of Elements in the Matrix as t, which is numbers of rows * number of columns
+
 2.initialized a variabled zc for taking count of elements visited, and initialize a flag variable as 0
+
 3.run the while loop for n times
 
 when flag is 0, increment j that is move right, when j exceeds column or next j element is already visited change the flag to 1 and increment i
